@@ -6,3 +6,5 @@ A calculator is a basic equipment which is needed in our everyday lives. We ofte
 To execute the code:
 Download the file as zip and run:
 python3 main.py command
+
+We can switch between normal and scientific mode.
